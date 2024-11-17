@@ -8,7 +8,7 @@ Hi there! I'm Sanket Patil, a passionate Analyst with a knack for uncovering ins
 - **SQL**: Writing queries, data extraction, database management, and optimization.
 - **Problem-Solving**: Business challenges with analytical thinking and creative solutions.  
 \
-### ???? Currently Learning  
+### Currently Learning  
 - Innovative techniques for approaching and solving business problems.  \
 - Advanced concepts in **data analysis** and **visualization**.
 - Using **Python** and **machine learning** in improving my analytical toolkit.
